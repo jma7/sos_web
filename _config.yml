@@ -10,7 +10,7 @@ title: SOS
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Script of Scripts, a lightweight workflow system for the creation of readable workflows
-baseurl: "/sos" # the subpath of your site, e.g. /blog
+baseurl: "/sos/" # the subpath of your site, e.g. /blog
 url: 
 
 # Social media profiles - feel free to add more here
